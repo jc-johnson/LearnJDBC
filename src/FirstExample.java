@@ -19,7 +19,7 @@ public class FirstExample {
         Statement statement = null;
 
         try {
-            
+
             // STEP 2: Register JDBC driver
             Class.forName("com.mysql.jdbc.Driver");
 
